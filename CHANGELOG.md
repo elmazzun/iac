@@ -10,3 +10,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - README, CHANGELOG
+- playbook (`install-and-configure-docker.yml`)
+- Docker and Docker Compose in VMs
